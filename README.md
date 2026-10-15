@@ -1,12 +1,11 @@
 # Hi there, I'm Riyad Lemsaouri 👋
 
-### 💻 Full Stack Developer in Training
+### 💻 Full Stack Developer 
 
 🎓 Stagiaire en Développement Digital, option Full Stack, at ISTA Témara, Morocco.
 
 🚀 Passionate about web development, programming and building useful applications.
 
-### 🛠️ Tech Stack
 
 ### 🛠️ Tech Stack
 
